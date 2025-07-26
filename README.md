@@ -1,5 +1,5 @@
 # Parking-Lot-Management-System
-Created a parking lot management system for MAD1 Project of IIT-M 
+Created a parking lot management system for MAD1 Project of IIT-M's BS in Data Science and Application program. 
 
 The code for this project will be posted after it gets evaluated and graded by IIT-M to avoid plagiarism
 ---  
